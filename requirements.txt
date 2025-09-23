@@ -112,7 +112,7 @@ pbs-installer==2025.3.17
 pillow==11.1.0
 pkginfo==1.12.1.2
 platformdirs==4.3.6
-plotly==6.0.0
+plotly
 poetry==2.1.2
 poetry-core==2.1.2
 polars==1.25.2
